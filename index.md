@@ -4,18 +4,17 @@
  - It teaches practical skills
  - The workload doesn't seem unbearable
  - The instructors seem friendly
- - The instructions for HW 0 were clear
 
 
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
