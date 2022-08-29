@@ -1,4 +1,33 @@
 # Elliott Bode's First CS193 Homework
+
+## My Favorite Things About CS193
+ - It teaches practical skills
+ - The workload doesn't seem unbearable
+ - The instructors seem friendly
+ - The instructions for HW 0 were clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
